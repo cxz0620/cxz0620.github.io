@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:  /favcon.ico
+Disallow: /favcon.ico
 
 Sitemap: https://cxz0620.github.com.io/sitemap.xml
